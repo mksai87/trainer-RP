@@ -1,0 +1,110 @@
+
+### Aptitude Questions
+
+1. Question 1: A sum of money amounts to $7350 in 3 years and to $8400 in 4 years at simple interest. What is the sum?
+    - A) $4000
+    - B) $5000
+    - C) $6000
+    - D) $7000
+
+2. Question 2: A person covers a distance of 6 km in 45 minutes. What is his speed in km/hr?
+    - A) 6 km/hr
+    - B) 8 km/hr
+    - C) 10 km/hr
+    - D) 12 km/hr
+
+3. Question 3: If 6 workers can build a wall in 24 days, how many days will it take for 8 workers to build the same wall?
+    - A) 14 days
+    - B) 18 days
+    - C) 20 days
+    - D) 22 days
+
+4. Question 4: The difference between a number and its three-fourths is 50. What is the number?
+    - A) 100
+    - B) 120
+    - C) 140
+    - D) 160
+
+5. Question 5: A shopkeeper sells an article for $1440 at a loss of 10%. What is the cost price of the article?
+    - A) $1600
+    - B) $1600
+    - C) $1600
+    - D) $1600
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Dynamic'
+    - A) Static
+    - B) Energetic
+    - C) Lively
+    - D) Active
+
+7. Question 7: Choose the correct option that means the same as: 'One who loves books'
+    - A) Bibliophile
+    - B) Bibliomaniac
+    - C) Bibliographer
+    - D) Biblioclast
+
+8. Question 8: Which word best fits the blank in the sentence: "The company's profits _______ significantly last year."
+    - A) Grew
+    - B) Shrank
+    - C) Expanded
+    - D) Waned
+
+9. Question 9: Find the correctly spelled word.
+    - A) Necessarry
+    - B) Neccessary
+    - C) Necessary
+    - D) Necesssary
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) He eats not only apples but also oranges.
+    - B) He not only eats apples but oranges too.
+    - C) Not only he eats apples but also oranges.
+    - D) Not only does he eat apples but oranges too.
+
+### Technical Questions
+
+11. Question 11: What is the purpose of the `finally` block in Python's exception handling?
+    - A) To define finalizer methods for an object.
+    - B) To raise an exception manually.
+    - C) To execute cleanup code even if an exception occurs.
+    - D) To handle specific exceptions.
+
+12. Question 12: Which of the following data structures organizes data in a hierarchical structure with parent-child relationships?
+    - A) Array
+    - B) Linked List
+    - C) Tree
+    - D) Queue
+
+13. Question 13: What does CSS stand for in web development?
+    - A) Central Style Sheets
+    - B) Cascading Style Sheets
+    - C) Creative Style Sheets
+    - D) Complex Style Sheets
+
+14. Question 14: In Python, how do you open a file named "data.txt" for reading?
+    - A) `file = open("data.txt", "r")`
+    - B) `file = open("data.txt", "w")`
+    - C) `file = open("data.txt", "a")`
+    - D) `file = open("data.txt", "rb")`
+
+15. Question 15: Which SQL command is used to retrieve only unique values from a database table?
+    - A) DISTINCT
+    - B) UNIQUE
+    - C) SELECT UNIQUE
+    - D) SELECT DISTINCT
+
+### Programs
+
+16. Program 1: Calculate Factorial
+    - Description: Write a program to calculate the factorial of a given number.
+    - Example Input: `5`
+    - Example Output: `120`
+
+17. Program 2: Check Armstrong Number
+    - Description: Write a program to check if a given number is an Armstrong number.
+    - Example Input: `153`
+    - Example Output: `True`
+
+ 

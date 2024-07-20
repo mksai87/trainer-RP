@@ -1,0 +1,111 @@
+
+### Aptitude Questions
+
+1. Question 1: A sum of money doubles itself in 8 years at simple interest. What is the rate of interest per annum?
+    - A) 10%
+    - B) 12.5%
+    - C) 15%
+    - D) 25%
+
+2. Question 2: The perimeter of a rectangle is 60 cm. If the length is twice the breadth, what are the length and breadth of the rectangle?
+    - A) 10 cm, 20 cm
+    - B) 15 cm, 30 cm
+    - C) 20 cm, 10 cm
+    - D) 30 cm, 15 cm
+
+3. Question 3: If 5 men can complete a work in 20 days, how many days will it take for 8 men to complete the same work?
+    - A) 10 days
+    - B) 12.5 days
+    - C) 15 days
+    - D) 20 days
+
+4. Question 4: A man walked 15 km in 3 hours. What was his average speed in km/hr?
+    - A) 4 km/hr
+    - B) 4.5 km/hr
+    - C) 5 km/hr
+    - D) 5.5 km/hr
+
+5. Question 5: The ratio of the present ages of A and B is 4:5. After 5 years, the ratio will be 5:6. What are their present ages?
+    - A) 20 and 25
+    - B) 24 and 30
+    - C) 28 and 35
+    - D) 32 and 40
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Provoke'
+    - A) Incite
+    - B) Stimulate
+    - C) Appease
+    - D) Agitate
+
+7. Question 7: Choose the correct option that means the same as: 'A person who loves mankind'
+    - A) Philanthropist
+    - B) Misogynist
+    - C) Misanthropist
+    - D) Optimist
+
+8. Question 8: Which word best fits the blank in the sentence: "The student's _______ efforts were praised by all the teachers."
+    - A) Lackluster
+    - B) Assiduous
+    - C) Negligent
+    - D) Apathetic
+
+9. Question 9: Find the correctly spelled word.
+    - A) Accomodate
+    - B) Acomodate
+    - C) Accommodate
+    - D) Acommadate
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) Each of the boys play cricket.
+    - B) Each of the boys plays cricket.
+    - C) Each of the boy play cricket.
+    - D) Each of the boy plays cricket.
+
+### Technical Questions
+
+11. Question 11: What is the full form of HTTP?
+    - A) HyperText Transfer Protocol
+    - B) HyperText Transmission Protocol
+    - C) HighText Transfer Protocol
+    - D) HighText Transmission Protocol
+
+12. Question 12: Which of the following is a primary key in a database?
+    - A) It uniquely identifies each record in a table.
+    - B) It allows duplicate values.
+    - C) It cannot be null.
+    - D) Both A and C
+
+13. Question 13: What is the purpose of the `return` statement in a function?
+    - A) It exits the function.
+    - B) It passes control to the next function.
+    - C) It returns a value to the calling function.
+    - D) Both A and C
+
+14. Question 14: In CSS, which property is used to change the background color of an element?
+    - A) color
+    - B) bgcolor
+    - C) background-color
+    - D) background
+
+15. Question 15: Which SQL clause is used to filter records?
+    - A) WHERE
+    - B) SELECT
+    - C) FROM
+    - D) ORDER BY
+
+### Programs
+
+16. Program 1: Fibonacci Sequence
+    - Description: Write a program to print the first 10 numbers in the Fibonacci sequence.
+    - Example Output: `0, 1, 1, 2, 3, 5, 8, 13, 21, 34`
+
+   
+
+17. Program 2: Reverse a String
+    - Description: Write a program to reverse a given string.
+    - Example Input: `"hello"`
+    - Example Output: `"olleh"`
+
+ 

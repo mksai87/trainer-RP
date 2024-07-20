@@ -1,0 +1,111 @@
+### Aptitude Questions
+
+1. Question 1: A man buys 12 pens for $60 and sells them at $6 each. What is his profit percentage?
+    - A) 10%
+    - B) 20%
+    - C) 30%
+    - D) 40%
+
+2. Question 2: Two numbers are in the ratio 3:5. If their sum is 40, what are the numbers?
+    - A) 12 and 20
+    - B) 15 and 25
+    - C) 18 and 22
+    - D) 9 and 15
+
+3. Question 3: If a car travels 240 km in 4 hours, what is its average speed?
+    - A) 50 km/hr
+    - B) 55 km/hr
+    - C) 60 km/hr
+    - D) 65 km/hr
+
+4. Question 4: The product of two consecutive even numbers is 288. What are the numbers?
+    - A) 14 and 16
+    - B) 16 and 18
+    - C) 18 and 20
+    - D) 20 and 22
+
+5. Question 5: A certain sum of money amounts to $2520 in 2 years at 5% per annum simple interest. What is the principal amount?
+    - A) $2000
+    - B) $2100
+    - C) $2200
+    - D) $2300
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Amicable'
+    - A) Hostile
+    - B) Friendly
+    - C) Cordial
+    - D) Peaceful
+
+7. Question 7: Choose the correct option that means the same as: 'A person who travels to sacred places as an act of religious devotion'
+    - A) Tourist
+    - B) Pilgrim
+    - C) Traveler
+    - D) Nomad
+
+8. Question 8: Which word best fits the blank in the sentence: "The scientist's theory was _______ and well-researched."
+    - A) Speculative
+    - B) Inaccurate
+    - C) Comprehensive
+    - D) Sketchy
+
+9. Question 9: Find the correctly spelled word.
+    - A) Occurrance
+    - B) Ocurrence
+    - C) Occurrence
+    - D) Ocurrance
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) Each of the girls have their own room.
+    - B) Each of the girls has their own room.
+    - C) Each of the girls have her own room.
+    - D) Each of the girls has her own room.
+
+### Technical Questions
+
+11. Question 11: What does SQL stand for?
+    - A) Structured Query Language
+    - B) Sequential Query Language
+    - C) Structured Question Language
+    - D) Simple Query Language
+
+12. Question 12: What is the purpose of the `continue` statement in a loop?
+    - A) It terminates the loop.
+    - B) It skips the current iteration.
+    - C) It skips to the next iteration.
+    - D) It restarts the loop.
+
+13. Question 13: Which of the following CSS properties is used to change the text color of an element?
+    - A) text-color
+    - B) color
+    - C) font-color
+    - D) text-style
+
+14. Question 14: In JavaScript, which method is used to find the length of a string?
+    - A) length()
+    - B) size()
+    - C) length
+    - D) size
+
+15. Question 15: Which of the following is used to style HTML elements?
+    - A) JavaScript
+    - B) PHP
+    - C) CSS
+    - D) SQL
+
+### Programs
+
+16. Program 1: Palindrome Number
+    - Description: Write a program to check if a given number is a palindrome.
+    - Example Input: `121`
+    - Example Output: `True`
+
+  
+
+17. Program 2: Factorial using Iteration
+    - Description: Write a program to calculate the factorial of a number using iteration.
+    - Example Input: `5`
+    - Example Output: `120`
+
+  

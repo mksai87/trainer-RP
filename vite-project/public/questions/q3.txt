@@ -1,0 +1,110 @@
+### Aptitude Questions
+
+1. Question 1: A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+    - A) 120 meters
+    - B) 150 meters
+    - C) 180 meters
+    - D) 200 meters
+
+2. Question 2: The sum of two numbers is 25 and their difference is 5. What are the numbers?
+    - A) 15 and 10
+    - B) 20 and 5
+    - C) 18 and 7
+    - D) 17 and 8
+
+3. Question 3: If the cost price of 20 articles is equal to the selling price of 15 articles, what is the profit percentage?
+    - A) 20%
+    - B) 25%
+    - C) 30%
+    - D) 33.33%
+
+4. Question 4: A person covers a certain distance at 45 km/hr and returns at 30 km/hr. Find the average speed for the whole journey.
+    - A) 35 km/hr
+    - B) 36 km/hr
+    - C) 37.5 km/hr
+    - D) 40 km/hr
+
+5. Question 5: The difference between simple and compound interest on $5000 for 2 years at 10% per annum is:
+    - A) $10
+    - B) $20
+    - C) $30
+    - D) $40
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Nadir'
+    - A) Zenith
+    - B) Bottom
+    - C) Depth
+    - D) Low
+
+7. Question 7: Choose the correct option that means the same as: 'A speech delivered without any preparation'
+    - A) Extempore
+    - B) Rehearsed
+    - C) Memorized
+    - D) Scripted
+
+8. Question 8: Which word best fits the blank in the sentence: "The politician's speech was full of _______ but lacked substance."
+    - A) Eloquence
+    - B) Rhetoric
+    - C) Clarity
+    - D) Precision
+
+9. Question 9: Find the correctly spelled word.
+    - A) Maintanance
+    - B) Maintenence
+    - C) Maintenance
+    - D) Maintenence
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) The committee have made their decision.
+    - B) The committee has made their decision.
+    - C) The committee have made its decision.
+    - D) The committee has made its decision.
+
+### Technical Questions
+
+11. Question 11: Which of the following is used to find and fix bugs in the software?
+    - A) Compiler
+    - B) Interpreter
+    - C) Debugger
+    - D) Loader
+
+12. Question 12: What is the purpose of the `break` statement in a loop?
+    - A) It terminates the loop.
+    - B) It skips the current iteration.
+    - C) It skips to the next iteration.
+    - D) It restarts the loop.
+
+13. Question 13: Which of the following HTML tags is used to create a hyperlink?
+    - A) `<a>`
+    - B) `<link>`
+    - C) `<href>`
+    - D) `<hyperlink>`
+
+14. Question 14: Which of the following is not an OOP concept in Java?
+    - A) Inheritance
+    - B) Encapsulation
+    - C) Polymorphism
+    - D) Compilation
+
+15. Question 15: Which SQL statement is used to update data in a database?
+    - A) UPDATE
+    - B) MODIFY
+    - C) CHANGE
+    - D) ALTER
+
+### Programs
+
+16. Program 1: Sum of Digits
+    - Description: Write a program to calculate the sum of digits of a given number.
+    - Example Input: `1234`
+    - Example Output: `10`
+
+
+17. Program 2: Prime Number Check
+    - Description: Write a program to check if a given number is a prime number.
+    - Example Input: `7`
+    - Example Output: `True`
+
+    

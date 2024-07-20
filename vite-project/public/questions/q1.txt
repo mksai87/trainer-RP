@@ -1,0 +1,111 @@
+
+### Aptitude Questions
+
+1. Question 1: If the ratio of the ages of two friends is 3:4, and the sum of their ages is 28 years, what are their ages?
+    - A) 10 and 18
+    - B) 12 and 16
+    - C) 14 and 14
+    - D) 15 and 13
+  
+2. Question 2: A man can row downstream at 6 km/hr and upstream at 4 km/hr. What is the speed of the man in still water?
+    - A) 2 km/hr
+    - B) 4 km/hr
+    - C) 5 km/hr
+    - D) 6 km/hr
+  
+3. Question 3: If a car covers 150 km in 2.5 hours, what is its average speed?
+    - A) 50 km/hr
+    - B) 55 km/hr
+    - C) 60 km/hr
+    - D) 65 km/hr
+  
+4. Question 4: Find the missing number in the sequence: 2, 6, 12, 20, __, 42.
+    - A) 30
+    - B) 32
+    - C) 36
+    - D) 40
+
+5. Question 5: A train 150 meters long passes a telegraph pole in 10 seconds. What is the speed of the train?
+    - A) 15 m/s
+    - B) 25 m/s
+    - C) 20 m/s
+    - D) 10 m/s
+
+### Verbal Questions
+
+6. Question 1: Select the word that is most nearly opposite in meaning to the word: 'Prolific'
+    - A) Fertile
+    - B) Barren
+    - C) Productive
+    - D) Fruitful
+
+7. Question 2: Which word best fits the blank in the sentence: "The medicine had a _______ effect on the patient's condition."
+    - A) Beneficial
+    - B) Harmful
+    - C) Neutral
+    - D) Negligible
+
+8. Question 3: Choose the correct option that means the same as: 'A person who loves mankind'
+    - A) Misogynist
+    - B) Philanthropist
+    - C) Pessimist
+    - D) Agnostic
+
+9. Question 4: Find the correctly spelled word.
+    - A) Accomodate
+    - B) Acommodate
+    - C) Accommodate
+    - D) Acommodate
+
+10. Question 5: Which of the following sentences is grammatically correct?
+    - A) Neither of the boys have done their homework.
+    - B) Neither of the boys has done their homework.
+    - C) Neither of the boys have done his homework.
+    - D) Neither of the boys has done his homework.
+
+### Technical Questions
+
+11. Question 1: Which data structure uses FIFO (First In First Out) principle?
+    - A) Stack
+    - B) Queue
+    - C) Tree
+    - D) Graph
+
+12. Question 2: What is the time complexity of binary search algorithm?
+    - A) O(n)
+    - B) O(log n)
+    - C) O(n^2)
+    - D) O(n log n)
+
+13. Question 3: In which layer of the OSI model does the IP protocol operate?
+    - A) Application Layer
+    - B) Transport Layer
+    - C) Network Layer
+    - D) Data Link Layer
+
+14. Question 4: Which of the following is not a programming language?
+    - A) Python
+    - B) Java
+    - C) HTML
+    - D) Ruby
+
+15. Question 5: Which of the following is a NoSQL database?
+    - A) MySQL
+    - B) PostgreSQL
+    - C) MongoDB
+    - D) SQLite
+
+### Programs
+
+16. Program 1: Calculate Factorial
+    - Description: Write a program to calculate the factorial of a number.
+    - Example Input: `5`
+    - Example Output: `120`
+
+
+17. Program 2: Check if a String is a Palindrome
+    - Description: Write a program to check if a given string is a palindrome.
+    - Example Input: `"radar"`
+    - Example Output: `True`
+
+ 

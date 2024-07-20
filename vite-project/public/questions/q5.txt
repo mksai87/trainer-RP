@@ -1,0 +1,109 @@
+### Aptitude Questions
+
+1. Question 1: If 15% of a number is 45, what is the number?
+    - A) 200
+    - B) 250
+    - C) 300
+    - D) 350
+
+2. Question 2: A man can complete a piece of work in 5 days, and another man can complete the same work in 3 days. How long will it take for them to complete the work together?
+    - A) 1.875 days
+    - B) 2 days
+    - C) 2.5 days
+    - D) 3 days
+
+3. Question 3: The difference between the compound interest and the simple interest on $1000 for 2 years at 5% per annum is:
+    - A) $1.25
+    - B) $2.50
+    - C) $3.75
+    - D) $5.00
+
+4. Question 4: What is the least number that should be added to 2497 so that the sum is completely divisible by 5?
+    - A) 1
+    - B) 2
+    - C) 3
+    - D) 4
+
+5. Question 5: A man’s age is 125% of what it was 10 years ago, but 83.33% of what it will be after 10 years. What is his present age?
+    - A) 40 years
+    - B) 50 years
+    - C) 60 years
+    - D) 70 years
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Transient'
+    - A) Permanent
+    - B) Fleeting
+    - C) Ephemeral
+    - D) Momentary
+
+7. Question 7: Choose the correct option that means the same as: 'A person who abandons his religion'
+    - A) Ascetic
+    - B) Atheist
+    - C) Apostate
+    - D) Agnostic
+
+8. Question 8: Which word best fits the blank in the sentence: "The teacher's explanation was so _______ that the students were left confused."
+    - A) Clear
+    - B) Lucid
+    - C) Convoluted
+    - D) Straightforward
+
+9. Question 9: Find the correctly spelled word.
+    - A) Restuarant
+    - B) Restorant
+    - C) Restaurant
+    - D) Restaurnt
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) He asked that how I was doing.
+    - B) He asked how was I doing.
+    - C) He asked how I was doing.
+    - D) He asked that how was I doing.
+
+### Technical Questions
+
+11. Question 11: Which of the following is not a relational database?
+    - A) MySQL
+    - B) MongoDB
+    - C) PostgreSQL
+    - D) SQLite
+
+12. Question 12: What does the acronym CPU stand for?
+    - A) Central Processing Unit
+    - B) Central Performance Unit
+    - C) Central Processing Utility
+    - D) Central Performance Utility
+
+13. Question 13: Which of the following is used to structure content on the web?
+    - A) HTML
+    - B) CSS
+    - C) JavaScript
+    - D) Python
+
+14. Question 14: In Python, what does the `len()` function do?
+    - A) It returns the length of an iterable.
+    - B) It returns the length of a string only.
+    - C) It returns the length of a number.
+    - D) It returns the length of a file.
+
+15. Question 15: Which of the following commands is used to view the contents of a directory in Unix/Linux?
+    - A) `dir`
+    - B) `ls`
+    - C) `view`
+    - D) `show`
+
+### Programs
+
+16. Program 1: Sum of an Array
+    - Description: Write a program to calculate the sum of all elements in an array.
+    - Example Input: `[1, 2, 3, 4, 5]`
+    - Example Output: `15`
+
+  
+
+17. Program 2: Find the Maximum Number in a List
+    - Description: Write a program to find the maximum number in a given list.
+    - Example Input: `[3, 5, 7, 2, 8]`
+    - Example Output: `8`

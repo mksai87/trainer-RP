@@ -1,0 +1,111 @@
+### Aptitude Questions
+
+1. Question 1: A train travels 60 km/hr and takes 1.5 hours to reach its destination. What is the distance covered by the train?
+    - A) 90 km
+    - B) 80 km
+    - C) 70 km
+    - D) 60 km
+
+2. Question 2: If 20% of a number is 50, what is 75% of the number?
+    - A) 150
+    - B) 180
+    - C) 200
+    - D) 225
+
+3. Question 3: The ratio of the ages of two brothers is 3:4. If the sum of their ages is 56, what is the age of the elder brother?
+    - A) 24
+    - B) 28
+    - C) 32
+    - D) 36
+
+4. Question 4: A car is moving at a speed of 72 km/hr. How many meters will it travel in 25 minutes?
+    - A) 30000 meters
+    - B) 25000 meters
+    - C) 28000 meters
+    - D) 36000 meters
+
+5. Question 5: If the price of an article is decreased by 20% and then increased by 20%, what is the net change in price?
+    - A) No change
+    - B) 2% increase
+    - C) 4% decrease
+    - D) 4% increase
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Venerate'
+    - A) Despise
+    - B) Respect
+    - C) Honor
+    - D) Revere
+
+7. Question 7: Choose the correct option that means the same as: 'A person who is a lover of books'
+    - A) Bibliographer
+    - B) Bibliophile
+    - C) Bibliomaniac
+    - D) Bibliothecary
+
+8. Question 8: Which word best fits the blank in the sentence: "The _______ of the novel kept readers hooked till the end."
+    - A) Dullness
+    - B) Monotony
+    - C) Excitement
+    - D) Complexity
+
+9. Question 9: Find the correctly spelled word.
+    - A) Recieve
+    - B) Receive
+    - C) Recive
+    - D) Receeve
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) Each of the girls have their own book.
+    - B) Each of the girls has their own book.
+    - C) Each of the girls have her own book.
+    - D) Each of the girls has her own book.
+
+### Technical Questions
+
+11. Question 11: What does the acronym XML stand for?
+    - A) Extensible Markup Language
+    - B) Extensive Markup Language
+    - C) External Markup Language
+    - D) Extra Markup Language
+
+12. Question 12: Which of the following is not a programming language?
+    - A) Python
+    - B) Java
+    - C) HTML
+    - D) C++
+
+13. Question 13: Which method is used to add an element to the end of a list in Python?
+    - A) append()
+    - B) add()
+    - C) insert()
+    - D) extend()
+
+14. Question 14: Which of the following is used to declare a variable in JavaScript?
+    - A) var
+    - B) let
+    - C) const
+    - D) All of the above
+
+15. Question 15: Which SQL command is used to retrieve data from a database?
+    - A) GET
+    - B) FETCH
+    - C) SELECT
+    - D) RETRIEVE
+
+### Programs
+
+16. Program 1: Sum of Digits
+    - Description: Write a program to find the sum of the digits of a given number.
+    - Example Input: `1234`
+    - Example Output: `10`
+
+   
+
+17. Program 2: Factorial using Recursion
+    - Description: Write a program to calculate the factorial of a number using recursion.
+    - Example Input: `5`
+    - Example Output: `120`
+
+    

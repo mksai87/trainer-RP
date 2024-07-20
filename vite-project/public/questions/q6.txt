@@ -1,0 +1,110 @@
+### Aptitude Questions
+
+1. Question 1: A person spends 40% of his income on rent, 30% on food, and 20% on transportation. If he saves $300, what is his total income?
+    - A) $1000
+    - B) $1200
+    - C) $1500
+    - D) $2000
+
+2. Question 2: If the ratio of the ages of two friends is 3:4 and the sum of their ages is 35, what are their ages?
+    - A) 15 and 20
+    - B) 18 and 24
+    - C) 21 and 28
+    - D) 24 and 32
+
+3. Question 3: A shopkeeper sells an article at a loss of 5%. If the selling price is $570, what was the cost price?
+    - A) $600
+    - B) $615
+    - C) $630
+    - D) $650
+
+4. Question 4: The average of three numbers is 20. If the sum of the first two numbers is 36, what is the third number?
+    - A) 16
+    - B) 18
+    - C) 20
+    - D) 22
+
+5. Question 5: The simple interest on a certain sum at 6% per annum for 3 years is $540. What is the sum?
+    - A) $2500
+    - B) $2800
+    - C) $3000
+    - D) $3200
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Benevolent'
+    - A) Malevolent
+    - B) Kind
+    - C) Charitable
+    - D) Generous
+
+7. Question 7: Choose the correct option that means the same as: 'A person who does not believe in any religion'
+    - A) Theist
+    - B) Atheist
+    - C) Agnostic
+    - D) Deist
+
+8. Question 8: Which word best fits the blank in the sentence: "The manager's _______ attitude made him unpopular among the employees."
+    - A) Approachable
+    - B) Amiable
+    - C) Arrogant
+    - D) Humble
+
+9. Question 9: Find the correctly spelled word.
+    - A) Definately
+    - B) Definitely
+    - C) Definietly
+    - D) Definetely
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) Neither of the answers are correct.
+    - B) Neither of the answers is correct.
+    - C) Neither of the answer are correct.
+    - D) Neither of the answer is correct.
+
+### Technical Questions
+
+11. Question 11: Which of the following data types is not supported in Python?
+    - A) List
+    - B) Dictionary
+    - C) Tuple
+    - D) Tree
+
+12. Question 12: What does the acronym RAM stand for?
+    - A) Read Access Memory
+    - B) Random Access Memory
+    - C) Run Access Memory
+    - D) Rapid Access Memory
+
+13. Question 13: Which of the following tags is used to create an ordered list in HTML?
+    - A) `<ul>`
+    - B) `<ol>`
+    - C) `<li>`
+    - D) `<list>`
+
+14. Question 14: Which keyword is used to define a function in Python?
+    - A) func
+    - B) define
+    - C) def
+    - D) function
+
+15. Question 15: Which SQL statement is used to remove a table from a database?
+    - A) REMOVE TABLE
+    - B) DELETE TABLE
+    - C) DROP TABLE
+    - D) ERASE TABLE
+
+### Programs
+
+16. Program 1: Check if a String is a Palindrome
+    - Description: Write a program to check if a given string is a palindrome.
+    - Example Input: `"radar"`
+    - Example Output: `True`
+
+
+17. Program 2: Find the GCD of Two Numbers
+    - Description: Write a program to find the greatest common divisor (GCD) of two numbers.
+    - Example Input: `48, 18`
+    - Example Output: `6`
+
+   

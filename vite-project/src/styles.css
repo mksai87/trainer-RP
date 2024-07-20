@@ -1,0 +1,214 @@
+.app-container {
+  display: flex;
+  height: 710px;
+}
+
+.left-half {
+  width: 40%;
+  padding: 20px;
+  background-color: #524b4b;
+}
+
+.TestColor {
+  color: rgb(255, 255, 255);
+}
+
+.right-half {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+.top-right {
+  flex: 1;
+  padding: 10px;
+  background-color: #ffffff;
+  overflow-y: auto;
+}
+
+.bottom-right {
+  padding: 10px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* This ensures the bottom-right section is spaced from the top-right section */
+}
+
+.question-container {
+  margin-bottom: 20px;
+}
+
+.options-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 1px; /* Adding the required space between the options and the next button */
+}
+
+.essay-textarea {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.next-button {
+  margin-bottom: 20px;
+}
+
+.mock-test-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.questions-section {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.question-item {
+  margin-bottom: 20px;
+}
+
+.question-item p {
+  margin: 0;
+}
+
+.question-item input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+pre {
+  white-space: pre-wrap; /* Ensures that long lines are wrapped */
+  word-wrap: break-word; /* Breaks long words */
+  overflow: auto; /* Adds a scrollbar for overflow */
+  max-width: 100%; /* Ensures the pre element doesn't exceed container width */
+}
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+pre::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge, and Firefox */
+pre {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+
+/* group dis */
+
+.group-decision-container {
+  display: flex;
+  height: 91vh;
+  font-family: Arial, sans-serif;
+}
+
+.left-container {
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color:  #524b4b;
+}
+
+.input-message {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color:  #524b4b;
+  color: white;
+}
+
+.display-area {
+  width: 100%;
+  height: 400px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color:  #524b4b;
+  color: white;
+}
+
+.submit-button, .start-listening-button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #1e90ff;
+}
+
+.right-container {
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.question-section {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.boxes-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 3px;
+  
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #f0f0f0;
+  border: 2px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.box.selected {
+  background-color: #d1e7fd;
+  border-color: #1e90ff;
+}
+
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.counter {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.raise-hand-button, .stop-talking-button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #1e90ff;
+}

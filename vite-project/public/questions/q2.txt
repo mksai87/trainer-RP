@@ -1,0 +1,117 @@
+### Aptitude Questions
+
+1. Question 1: If a person walks at 4 km/hr instead of 3 km/hr, he would have walked 20 km more. How much did he actually walk?
+    - A) 50 km
+    - B) 60 km
+    - C) 70 km
+    - D) 80 km
+  
+2. Question 2: A man buys a watch for $100 and sells it for $120. What is his profit percentage?
+    - A) 15%
+    - B) 20%
+    - C) 25%
+    - D) 30%
+  
+3. Question 3: The average of five consecutive numbers is 18. What is the smallest of these numbers?
+    - A) 15
+    - B) 16
+    - C) 17
+    - D) 18
+  
+4. Question 4: If 3x - 5 = 7, what is the value of x?
+    - A) 2
+    - B) 3
+    - C) 4
+    - D) 5
+
+5. Question 5: A sum of money triples itself in 5 years at simple interest. What is the rate of interest per annum?
+    - A) 20%
+    - B) 30%
+    - C) 40%
+    - D) 50%
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Candid'
+    - A) Honest
+    - B) Truthful
+    - C) Insincere
+    - D) Frank
+
+7. Question 7: Choose the correct option that means the same as: 'A place where books are kept'
+    - A) Library
+    - B) Bookstore
+    - C) Study
+    - D) Archive
+
+8. Question 8: Which word best fits the blank in the sentence: "The witness gave a _______ account of the incident."
+    - A) Confusing
+    - B) Clear
+    - C) Distorted
+    - D) Misleading
+
+9. Question 9: Find the correctly spelled word.
+    - A) Indispensible
+    - B) Indispensable
+    - C) Indespensible
+    - D) Indespensable
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) Each of the boys have their own book.
+    - B) Each of the boys has their own book.
+    - C) Each of the boys have his own book.
+    - D) Each of the boys has his own book.
+
+### Technical Questions
+
+11. Question 11: Which of the following is a primary key constraint?
+    - A) Ensures all values in a column are different
+    - B) Ensures all values in a column are unique
+    - C) Both A and B
+    - D) None of the above
+
+12. Question 12: What is the output of the following code?
+    ```python
+    def add(x, y=10):
+        return x + y
+
+    print(add(5))
+    ```
+    - A) 5
+    - B) 10
+    - C) 15
+    - D) 20
+
+13. Question 13: Which of the following is a correct HTML tag for inserting a line break?
+    - A) `<break>`
+    - B) `<lb>`
+    - C) `<br>`
+    - D) `<linebreak>`
+
+14. Question 14: Which of the following is not a part of the software development lifecycle?
+    - A) Planning
+    - B) Designing
+    - C) Testing
+    - D) Marketing
+
+15. Question 15: In Java, which keyword is used to inherit a class?
+    - A) implements
+    - B) inherits
+    - C) extends
+    - D) imports
+
+### Programs
+
+16. Program 1: Reverse a String
+    - Description: Write a program to reverse a given string.
+    - Example Input: `"hello"`
+    - Example Output: `"olleh"`
+
+   
+
+17. Program 2: Fibonacci Series
+    - Description: Write a program to generate the first N Fibonacci numbers.
+    - Example Input: `5`
+    - Example Output: `[0, 1, 1, 2, 3]`
+
+  

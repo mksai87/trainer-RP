@@ -1,0 +1,119 @@
+### Aptitude Questions
+
+1. Question 1: A boat travels upstream 60 km in 5 hours and downstream the same distance in 3 hours. What is the speed of the boat in still water?
+    - A) 12 km/hr
+    - B) 15 km/hr
+    - C) 18 km/hr
+    - D) 20 km/hr
+
+2. Question 2: If \( \sqrt{x} + \sqrt{y} = 12 \) and \( x + y = 80 \), what is the value of \( \sqrt{x} - \sqrt{y} \)?
+    - A) 2
+    - B) 4
+    - C) 6
+    - D) 8
+
+3. Question 3: The sum of two numbers is 70 and their difference is 20. What are the two numbers?
+    - A) 30, 50
+    - B) 35, 55
+    - C) 40, 60
+    - D) 45, 65
+
+4. Question 4: A train 150 meters long crosses a platform 350 meters long in 30 seconds. What is the speed of the train in km/hr?
+    - A) 54 km/hr
+    - B) 60 km/hr
+    - C) 72 km/hr
+    - D) 90 km/hr
+
+5. Question 5: The cost price of 20 articles is equal to the selling price of 16 articles. What is the profit percentage?
+    - A) 20%
+    - B) 25%
+    - C) 30%
+    - D) 35%
+
+### Verbal Questions
+
+6. Question 6: Select the word that is most nearly opposite in meaning to the word: 'Harmony'
+    - A) Discord
+    - B) Agreement
+    - C) Peace
+    - D) Consensus
+
+7. Question 7: Choose the correct option that means the same as: 'A person who hates mankind'
+    - A) Philanthropist
+    - B) Misanthropist
+    - C) Altruist
+    - D) Egoist
+
+8. Question 8: Which word best fits the blank in the sentence: "The committee's decision was _______ and well thought out."
+    - A) Hasty
+    - B) Impulsive
+    - C) Deliberate
+    - D) Rash
+
+9. Question 9: Find the correctly spelled word.
+    - A) Occasion
+    - B) Ocassion
+    - C) Occassion
+    - D) Occasionn
+
+10. Question 10: Which of the following sentences is grammatically correct?
+    - A) The team are ready to play.
+    - B) The team is ready to play.
+    - C) The team am ready to play.
+    - D) The team was ready to play.
+
+### Technical Questions
+
+11. Question 11: What is the purpose of a constructor in object-oriented programming?
+    - A) To create an object of a class.
+    - B) To initialize the data members of a class.
+    - C) To destroy an object of a class.
+    - D) To define the methods of a class.
+
+12. Question 12: Which of the following data structures stores elements in a Last-In-First-Out (LIFO) manner?
+    - A) Queue
+    - B) Stack
+    - C) Heap
+    - D) Linked List
+
+13. Question 13: What is the output of the following Python code snippet?
+
+    ```python
+    x = 10
+    def func():
+        x = 20
+        print(x)
+
+    func()
+    print(x)
+    ```
+
+    - A) 10, 20
+    - B) 20, 10
+    - C) 20, 20
+    - D) 10, 10
+
+14. Question 14: Which of the following is a valid way to declare a constant in Python?
+    - A) `constant = 10`
+    - B) `constant := 10`
+    - C) `CONSTANT = 10`
+    - D) `const 10`
+
+15. Question 15: In SQL, which keyword is used to sort the result set in ascending order?
+    - A) SORT
+    - B) ASC
+    - C) ORDER BY
+    - D) GROUP BY
+
+### Programs
+
+16. Program 1: Check Prime Number
+    - Description: Write a program to check if a given number is prime or not.
+    - Example Input: `7`
+    - Example Output: `True`
+
+
+17. Program 2: Count Vowels in a String
+    - Description: Write a program to count the number of vowels in a given string.
+    - Example Input: `"Hello World"`
+    - Example Output: `3`
